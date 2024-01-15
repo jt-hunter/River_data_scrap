@@ -1,6 +1,5 @@
 # River_data_scrap
 
-This project is to demonstrate my data skills and interests.
-I love being outdoors, and one of the factors in deciding if going to the river is worth while is the river's conditions.
-The goal of this project is to pull relevant data from internet sources to make predicitions on a Potomac River gage height at Little Falls River Gage by Potomac, MD.
+The goal of this project is to pull data from internet sources to make predictions on a Potomac River gage height at Little Falls River Gage by Potomac, MD.
+Neural networks were trained on historical data from up-river gages so that future predictions can be made at the Litte Falls gage at 17, 15, 8 and 4 hours in advance. It was built to be a Flask app run on PythonAnywhere.
 
